@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafayasserdev&label=Profile%20views&color=0e75b6&style=flat" alt="mostafayasserdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafayasserdev" alt="mostafayasserdev" /></a> </p>
 
 - 🔭 I’m currently working on [e-commerce for a startup](i work in localy now)
 
